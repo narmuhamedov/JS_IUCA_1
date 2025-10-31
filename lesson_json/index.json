@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Ivanov Ivan",
+        "photo": "photo/ivan.jpg",
+        "position": "Backend Developer"
+    },
+
+    {
+        "name": "Rufina",
+        "photo": "photo/rufina.jpg",
+        "position": "Frontend Developer"
+    },
+
+      {
+        "name": "Anya",
+        "photo": "photo/rufina.jpg",
+        "position": "Tester Developer"
+    }
+]
